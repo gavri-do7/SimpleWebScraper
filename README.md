@@ -3,7 +3,7 @@
 This Python-based application provides a user-friendly graphical interface for performing basic web scraping tasks. 
 Built with simplicity and accessibility in mind, the tool allows users to extract text content or specific elements (like headings, paragraphs, or links) from any public website without needing to write code.
 
-Key Features:
+# Key Features:
 
 Intuitive GUI: Designed with a clean and simple layout, making it easy for users to input URLs and select what content they want to scrape.
 
