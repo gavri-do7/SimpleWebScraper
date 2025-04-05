@@ -39,16 +39,16 @@ Advanced Tab
 ## Screens Recording
 
 Tag Filtered Scrape Example
-https://github.com/user-attachments/assets/e9ce32d1-b291-4830-856f-cdf6c70276bc
+https://github.com/user-attachments/assets/f0e4ff72-04a7-43fe-a6c5-7cfaa9ca12b5
 
 Attribute Filtered Scrape Example
-https://github.com/user-attachments/assets/5925e285-2ff8-4d0a-a9ac-76d159816e12
+https://github.com/user-attachments/assets/7426f185-b089-4f93-867f-ef4e1f97e368
 
 Export Results Example
-https://github.com/user-attachments/assets/9764b0bc-e537-4676-a6e2-1b328186ff79
+https://github.com/user-attachments/assets/84c9fe62-44cb-4754-9bab-f5d050f67704
 
 Import Results Example
-https://github.com/user-attachments/assets/ced5c57b-38b1-4cbc-87bc-ebdef3554a12
+https://github.com/user-attachments/assets/a18ba329-174e-4234-aace-6f5cf1afc767
 
 Advanced Settings Example
-https://github.com/user-attachments/assets/f32b397a-2007-49e5-8e73-49a7eeb08489
+https://github.com/user-attachments/assets/f6fcfc5c-2466-4b07-af09-7a8ff79e81b1
